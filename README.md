@@ -1,3 +1,3 @@
 # Python-practice-projects
 
-This repository contains mini projects to practice with python.
+This repository contains mini games projects to practice with python.
